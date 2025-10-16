@@ -1,5 +1,10 @@
 return {
+  {
+  'Mathijs-Bakker/godotdev.nvim',
+  dependencies = { 'nvim-lspconfig', 'nvim-dap', 'nvim-dap-ui', 'nvim-treesitter' },
+  },
   { "habamax/vim-godot" },
+  { "Cretezy/godot-server.nvim" },
   { "skywind3000/asyncrun.vim" },
   { "teatek/gdscript-extended-lsp.nvim", opts = { view_type = "floating", picker = "snacks" } },
   {

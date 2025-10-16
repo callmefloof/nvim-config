@@ -15,6 +15,8 @@
   "friendly-snippets": { "branch": "main", "commit": "572f5660cf05f8cd8834e096d7b4c921ba18e175" },
   "gdscript-extended-lsp.nvim": { "branch": "master", "commit": "f4ab702b5ebdaf79acf6104071a8df7cc8771fbd" },
   "gitsigns.nvim": { "branch": "main", "commit": "7010000889bfb6c26065e0b0f7f1e6aa9163edd9" },
+  "godot-server.nvim": { "branch": "main", "commit": "e9a34f77d63168094f41bb4751ffd10767e01baa" },
+  "godotdev.nvim": { "branch": "master", "commit": "79d9315988b7772c03a1cabb6f31f5287c849e2b" },
   "guess-indent.nvim": { "branch": "main", "commit": "84a4987ff36798c2fc1169cbaff67960aed9776f" },
   "heirline.nvim": { "branch": "master", "commit": "fae936abb5e0345b85c3a03ecf38525b0828b992" },
   "lazy.nvim": { "branch": "main", "commit": "6c3bda4aca61a13a9c63f1c1d1b16b9d3be90d7a" },
